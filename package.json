@@ -30,7 +30,10 @@
   ],
   "dependencies": {
     "concurrently": "^7.3.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
     "eslint": "^8.20.0",
+    "express": "^5.2.1",
     "prettier": "^2.7.1"
   },
   "prettier": {
